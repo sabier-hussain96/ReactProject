@@ -1,0 +1,7 @@
+{
+  "name": "KindLee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
